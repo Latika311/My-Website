@@ -1,0 +1,31 @@
+body{
+	background-color: #EEEDD1;
+	padding: 15px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#nav (overflow: auto;){
+margin: 1%;
+}
+
+.nav{
+	padding: 0.5em 0;
+}
+
+li{
+	display: inline;
+	padding: 0.5em;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+}
+
+.text{
+border: 1px solid #665544;
+background-color: #efefef;
+padding: inherit;
+}

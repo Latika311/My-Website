@@ -1,0 +1,90 @@
+body{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #EEEDD1;
+	padding: 15px;
+}
+
+#content (overflow: auto)
+#nav, #feature, #footer{
+	margin: 1%;
+}
+
+#slideshow { 
+    margin: 50px auto; 
+    position: center; 
+    width: 960px; 
+    height: 300px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow {
+  margin: 80px auto;
+  position: relative;
+  width: 240px;
+  height: 240px;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+#slideshow > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+}
+
+#column1{
+	margin-bottom: 90px;
+}
+
+#column2{
+	margin-bottom: 90px;
+}
+
+#box {
+margin-top: 110px;
+margin-bottom: 70px;
+}
+
+li{
+	display: inline;
+	padding: 0.5em;
+}
+
+#nav. #footer{
+	background-color: #efefef;
+	padding: 0.5em 0;
+}
+
+#feature{
+	height: 15em;
+	width:  76em;
+	margin-bottom: 1em;
+	background-color: #efefef;
+}
+
+div img {
+	margin: 0 10px;
+}
+
+.images {
+  position: relative;
+  display: inline-block;
+}
+
+.images p {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+}
+
+
+#top{
+	padding: 23px 5px;
+}

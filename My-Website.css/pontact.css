@@ -1,0 +1,27 @@
+body{
+	background: #eeedd1;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px;
+}
+
+li{
+	display: inline;
+	padding: 0.5em;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	margin: 5px;
+	padding: 15px;
+}
+
+.nav{
+	padding: 0.5em 0;
+}
+
+#nav (overflow: auto;){
+margin: 1%;
+}
